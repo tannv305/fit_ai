@@ -1,0 +1,12 @@
+{
+  "person": {
+    "width": 300,
+    "height": 500,
+    "aspect_ratio": 0.6
+  },
+  "clothing": {
+    "width": 150,
+    "height": 200,
+    "aspect_ratio": 0.75
+  }
+}

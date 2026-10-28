@@ -1,0 +1,62 @@
+{
+  "left_shoulder": {
+    "x": 105,
+    "y": 125,
+    "visibility": 0.9
+  },
+  "right_shoulder": {
+    "x": 195,
+    "y": 125,
+    "visibility": 0.9
+  },
+  "left_elbow": {
+    "x": 0,
+    "y": 0,
+    "visibility": 0.0
+  },
+  "right_elbow": {
+    "x": 0,
+    "y": 0,
+    "visibility": 0.0
+  },
+  "left_wrist": {
+    "x": 0,
+    "y": 0,
+    "visibility": 0.0
+  },
+  "right_wrist": {
+    "x": 0,
+    "y": 0,
+    "visibility": 0.0
+  },
+  "left_hip": {
+    "x": 114,
+    "y": 275,
+    "visibility": 0.9
+  },
+  "right_hip": {
+    "x": 186,
+    "y": 275,
+    "visibility": 0.9
+  },
+  "left_knee": {
+    "x": 120,
+    "y": 375,
+    "visibility": 0.9
+  },
+  "right_knee": {
+    "x": 180,
+    "y": 375,
+    "visibility": 0.9
+  },
+  "left_ankle": {
+    "x": 120,
+    "y": 460,
+    "visibility": 0.9
+  },
+  "right_ankle": {
+    "x": 180,
+    "y": 460,
+    "visibility": 0.9
+  }
+}
